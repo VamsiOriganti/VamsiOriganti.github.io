@@ -1,2 +1,2 @@
-# github.io
-Personal Portfolio
+# VamsiOriganti.github.io
+Deployment Repository for Personal Portfolio
